@@ -1,23 +1,23 @@
-# Windows Dotfiles
+# Dotfiles
 
-This repository contains my personal configuration files (dotfiles) for setting up and customizing my Windows development environment.
+This repository contains my personal dotfiles for setting up and configuring my development environment across multiple systems.
 
 ## 📌 What's Included
 
-Wezterm Configuration
+Shell configurations (.bashrc, .zshrc, .aliases, .profile)
 
-Neovim Configuration 
+Editor settings (VS Code, Neovim, etc.)
 
-Chocolatey package lists
+Terminal settings (wezterm, kitty)
 
-VS Code Settings (settings.json, keybindings.json)
+Wallpapers 
 
 ## 🚀 Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/naisyle/windows-dotfiles.git
-cd windows-dotfiles
+git clone https://github.com/naisyle/dotfiles.git
+cd dotfiles
 
 Backup existing config files (optional but recommended).
 
